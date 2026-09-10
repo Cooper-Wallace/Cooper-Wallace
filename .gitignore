@@ -1,0 +1,14 @@
+# OS Artifacts
+.DS_Store
+Thumbs.db
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment & Scratch
+.env
+*.bak
+scratch/
