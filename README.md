@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banners/cooper_banner_github.jpg" alt="Cooper Wallace — AI Engineering & Systems" width="100%" />
+</p>
+
 <div align="center">
 
 # Cooper Wallace
