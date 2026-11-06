@@ -29,6 +29,38 @@ I specialize in architecting and operationalizing AI systems, with a foundation 
 
 ---
 
+### 🏗️ Project Ecosystem & Core Repositories
+
+#### 🤖 Agent Infrastructure & Governance
+
+| Repository | Focus & Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [`agentkit`](https://github.com/Cooper-Wallace/agentkit) | Automated multi-machine synchronization, drift detection, and standards enforcement engine for Google Antigravity agent harnesses. | `Python` `Bash` `POSIX` `Antigravity` | [![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square)](https://github.com/Cooper-Wallace/agentkit) |
+| [`repokit`](https://github.com/Cooper-Wallace/repokit) | Automated GitHub repository governance, branch protection rulesets, and release lifecycle engine. | `Go` `GitHub Actions` `gh CLI` | [![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square)](https://github.com/Cooper-Wallace/repokit) |
+| [`AgentVault`](https://github.com/Cooper-Wallace/AgentVault) | Obsidian perpetual knowledge vault, multi-agent cross-session memory layer, and visual JSON Canvas system architectures. | `Obsidian` `Markdown` `JSON Canvas` `Git` | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) |
+
+#### 📈 Augurs Quantitative Suite
+
+| Repository | Focus & Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [`augurs-saber`](https://github.com/Cooper-Wallace/augurs-saber) | Publication-grade quantitative baseball modeling engine pairing hierarchical probabilistic forecasting with prediction market benchmarking. | `Python` `Dagster` `Polars` `Delta Lake` `DuckDB` | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) |
+| [`augurs-bazaar`](https://github.com/Cooper-Wallace/augurs-bazaar) | Cross-exchange prediction market data ingestion, pricing engine, and high-performance columnar analytics platform. | `Python` `DuckDB` `Parquet` `asyncio` | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) |
+
+#### 🖥️ Workstation & Desktop Environment
+
+| Repository | Focus & Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [`workstation-setup`](https://github.com/Cooper-Wallace/workstation-setup) | Statically compiled developer toolchain auditor, shell environment bridge, and 4-layer workstation meta-orchestrator. | `Go` `POSIX Shell` `Linux` `GNU Stow` | [![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square)](https://github.com/Cooper-Wallace/workstation-setup) |
+| [`riced-kubuntu-os`](https://github.com/Cooper-Wallace/riced-kubuntu-os) | Declarative Kubuntu OS package manifests, KDE Plasma 6 configuration sync, and system-level desktop dotfiles. | `Bash` `KDE Plasma 6` `Linux` | [![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square)](https://github.com/Cooper-Wallace/riced-kubuntu-os) |
+
+#### 🚀 Applications & Integrations
+
+| Repository | Focus & Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [`ripcord`](https://github.com/Cooper-Wallace/ripcord) | Modular, async-native media extractor and resilient downloader framework with dual CLI and MV3 browser station. | `Python` `asyncio` `TypeScript` `FastAPI` `SQLite` | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) |
+
+---
+
 ### 💻 Tech Stack & Tooling
 
 | Domain | Focus Areas & Technologies |
